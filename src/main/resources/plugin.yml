@@ -1,0 +1,6 @@
+name: easel
+version: 0.1.0
+main: easel.Plugin
+api-version: "26.2"
+folia-supported: false
+author: https://github.com/breitwan
